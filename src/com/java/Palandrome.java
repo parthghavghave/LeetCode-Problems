@@ -1,3 +1,4 @@
+package com.java;
 
 public class Palandrome {
 	public static void main(String[] args) {

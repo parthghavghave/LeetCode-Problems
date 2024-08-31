@@ -1,3 +1,4 @@
+package com.java;
 import java.util.HashSet;
 
 public class LongestSubstringWithNonRepeat {
